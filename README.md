@@ -218,8 +218,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 TON = 0.6ms
-TOFF= 0.6ms
-TOTAL TIME = 1.2ms 
+
+TOFF = 0.6ms
+
+TOTAL TIME = 1.2ms
+
 FREQUENCY = 1/(TOTAL TIME)=1/(1.2ms)=833.33Hz
 
 ## FOR DUTY RATIO 70%
